@@ -1,2 +1,5 @@
 # match-making-astrrology
-by taking deatil of girl and boy finding h ow many gunas are matching
+by taking details of girl and boy finding how many gunas are matching
+install related libraries 
+install django
+use RapidAPI key to check the prediction 
